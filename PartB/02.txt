@@ -1,0 +1,1 @@
+Cada ilha contém mais de uma ponte, pontanto existem várias possibilidades para passar para outra utilizando pontes diferentes. A imagem em execução demonstra para cada descida uma possibilidade distinta, ou seja, um caminho único.
