@@ -1,0 +1,3 @@
+• Enquanto Mediator é um design pattern de comportamento, Façade é de estrutura
+• Façade promove a ideia de subsistemas encapsulandos as classes para que não se saiba sobre tudo do sistema tornado a comunicação unilateral, enquanto no Mediator a ideia é encapsular os comportamentos coletivos independente de subsistemas, podendo haver comunicação bilateral
+• Mediator tem maior probabilidade de reuso por conta que as classes podem estar num mesmo pacote, enquanto o Façade divide em subsistemas a lógica do programa, consequentemente são criado mais classes.
