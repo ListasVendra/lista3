@@ -1,0 +1,1 @@
+O propósito desse design pattern é remover a obrigação das classes consumidoras (nesse caso Obra) de instanciar a classe, assim reduzindo o acoplamento e também promovendo mais flexibilidade

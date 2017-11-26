@@ -1,0 +1,1 @@
+O propósito desse design pattern é nesse caso salvar o Status da Obra, vários status seguidos para que possa usar o comando desfazer, geralmente isso ocorre em alguma interface gráfica para que o usuário possa usar o famoso ctrl+z (no caso do Windows)

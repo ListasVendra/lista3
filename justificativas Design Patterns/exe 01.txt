@@ -1,0 +1,1 @@
+O propósito desse padrão no diagrama é poder alterar em tempo de execução um comportamento (nesse caso o método da Obra calculoRestauro())

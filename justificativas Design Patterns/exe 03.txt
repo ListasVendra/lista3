@@ -1,0 +1,1 @@
+O propósito desse pattern é fazer com que uma classe (nesse caso a classe Exposição) fique Observando outra classe denominada Sujeito (Subject, nesse caso a classe Obra), quando a classe do Sujeito ocorre uma mudança de status (nesse caso do StatusObra), então ela notifica para todos os Observadores que ocorreu uma mudança de Status
