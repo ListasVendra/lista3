@@ -1,0 +1,1 @@
+O propósito desse design pattern é promover uma interface para que assim as fronteiras acessem as controles (geralmente o uso é para web), nesse diagrama todas as fronteiras usariam métodos GET e POST para acessar e enviar as informações para as controles

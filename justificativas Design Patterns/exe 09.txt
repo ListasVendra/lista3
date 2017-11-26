@@ -1,0 +1,1 @@
+O propósito desse design pattern nesse diagrama é promover um protótipo (clone ou cópia, nesse caso clone) para que possa ser alterado sem alterar a instancia real, ou nesse caso, para armazenar como cache para usos posteriores (levando em consideração que a instancia não haverá mudanças nela)
