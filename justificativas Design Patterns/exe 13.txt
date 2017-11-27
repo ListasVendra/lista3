@@ -1,0 +1,2 @@
+O propósito desse design pattern é reduzir o acoplamento entre a abstração e a implementação (nesse caso a abstração PagamentoVisita e a implementação Funcionario) onde por meio desse pattern realiza uma ponte (Bridge) entre essas classes
+Observação: Nesse exercício a classe antes modelo Funcionario se tornou uma interface para que assim ela tivesse somente os métodos aplicaveis para o design pattern e ela na implementação poderia possuir muitos mais outros métodos
